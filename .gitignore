@@ -4,3 +4,5 @@
 /SAM_IoT_Certs_Generator/SAM_IOT_WINC_PROV_MSFT.X/build/
 /SAM_IoT_Certs_Generator/SAM_IOT_WINC_PROV_Azure.X/dist/
 /SAM_IoT_Certs_Generator/SAM_IOT_WINC_PROV_Azure.X/build/
+/SAM_IoT_Certs_Generator/CertGen
+/SAM_IoT_Certs_Generator/ChainOfTrust
